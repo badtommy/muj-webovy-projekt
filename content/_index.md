@@ -1,27 +1,19 @@
 ---
-title: Home
+title: Elon Musk a jeho vize
 ---
 
-# Hello World! (It works!)
-
-This are the contents of the Hugo start website front page.
-
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+# Elon Musk a jeho cesta
+ 
+**Zmapování cesty ke hvězdám, na kterou se vydal Elon Musk a jeho firmy SpaceX a Tesla**
+ 
+Elon Musk je velká inspirativní osobnost moderní éry. Jeho nápady jsou inovativní a neotřelé, proto by bylo dobré si připomenout, jakou cestou se mu podařilo prorazit v dnešní době.
+ 
+Další části z Elonova života na kterou se nesmí zapomínat je jeho společnost SpaceX, která se věnuje letům do vesmíru a poslední době má velmi ambiciozní cíle - let s lidskou posádkou na Mars.
+ 
+V poslední době se také jeho další společnost Tesla snaží prorazit na poli elektro výrobků, především automobilů a nákladních vozidel. Jeho snaha udělat svět ekologičtější je bezmezná a minimálně hodna úcty.
+ 
+zdroje:
+https://www.elonx.cz/
+https://elonmuskquotes.com/
+https://www.teslafan.cz/
 

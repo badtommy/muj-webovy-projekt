@@ -1,11 +1,11 @@
-title: Moje stranka Bad
+title: Elon Musk a jeho Společnosti
 baseURL: https://naughty-swartz-0d6ba4.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
 menu:
   main:
-    - name: Homepage
+    - name: Elon Musk a jeho cesta
       url: /
       weight: 10
     - name: Archive
